@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on **Laravel, JsSIP Web Dialer, Attendance Systems**
 - 💼 Building HRMS & Dialer-related modules  
 - 📚 Always learning new technologies  
-- 📫 Reach me: **shraddhaadhav@gmail.com**
+- 📫 Reach me: **shraddhaadhav20@gmail.com**
 
 ---
 
