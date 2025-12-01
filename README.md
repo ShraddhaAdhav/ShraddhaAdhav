@@ -23,25 +23,25 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ShraddhaAdhav&show_icons=true&theme=radical" height="160">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaAdhav&layout=compact&theme=radical" height="160">
-</p>
+</p> -->
 
 ---
 
-### 🔥 Contribution Streak
+<!-- ### 🔥 Contribution Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ShraddhaAdhav&theme=radical" height="180">
-</p>
+</p> -->
 
 ---
 
-### 📂 Featured Projects
+<!--### 📂 Featured Projects
 - **HRMS Attendance Module** – Calendar, shifts, CSV export  
 - **In-house JsSIP Dialer** – Call, hold, mute, transfer  
-- **HubSpot Click-to-Call Integration**
+- **HubSpot Click-to-Call Integration** -->
 
 ---
 
