@@ -47,7 +47,7 @@
 
 ### 💬 Connect with Me
 <p>
-<a href="https://github.com/ShraddhaAdha" target="_blank">LinkedIn</a>  
+<a href="https://www.linkedin.com/in/shraddha-adhav-849a73164/" target="_blank">LinkedIn</a>  
 </p>
 
 
