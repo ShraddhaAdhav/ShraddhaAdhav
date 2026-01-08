@@ -16,8 +16,7 @@
 - HTML, CSS, Bootstrap  
 
 #### **Tools**
-- Git & GitHub  
-- VMware / Windows Server  
+- Git & GitHub   
 - VS Code  
 - Postman  
 
